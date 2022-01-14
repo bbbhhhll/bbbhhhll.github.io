@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bbbhhhll.github.io</id>
     <title>CISC322</title>
-    <updated>2022-01-14T19:53:22.657Z</updated>
+    <updated>2022-01-14T20:11:45.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bbbhhhll.github.io"/>
     <link rel="self" href="https://bbbhhhll.github.io/atom.xml"/>
-    <subtitle>Software arthicture</subtitle>
+    <subtitle>Software arthicture 2022 Winter</subtitle>
     <logo>https://bbbhhhll.github.io/images/avatar.png</logo>
     <icon>https://bbbhhhll.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CISC322</rights>
+    <entry>
+        <title type="html"><![CDATA[Group Members😆😆]]></title>
+        <id>https://bbbhhhll.github.io/post/group-members/</id>
+        <link href="https://bbbhhhll.github.io/post/group-members/">
+        </link>
+        <updated>2022-01-14T07:06:05.000Z</updated>
+        <content type="html"><![CDATA[<p>😺Haolin Bian<br>
+😸Haolong Guo<br>
+😹Jingyi Wang<br>
+😼Li Zhu<br>
+😽Yue Fang</p>
+]]></content>
+    </entry>
 </feed>
