@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bbbhhhll.github.io</id>
     <title>CISC322</title>
-    <updated>2022-02-21T07:01:47.505Z</updated>
+    <updated>2022-02-21T07:33:12.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bbbhhhll.github.io"/>
     <link rel="self" href="https://bbbhhhll.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://bbbhhhll.github.io/images/avatar.png</logo>
     <icon>https://bbbhhhll.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CISC322</rights>
+    <entry>
+        <title type="html"><![CDATA[A1. Conceptual Architecture slides and presentation]]></title>
+        <id>https://bbbhhhll.github.io/post/a1-report/</id>
+        <link href="https://bbbhhhll.github.io/post/a1-report/">
+        </link>
+        <updated>2022-02-19T02:56:21.000Z</updated>
+        <content type="html"><![CDATA[<p>Video URL: https://youtu.be/jXgad6Gy3GU<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428613549.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428615898.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428617994.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428620033.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428625919.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428627690.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428629486.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428632034.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428633927.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428635973.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428638511.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428640225.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428641945.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428644202.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428646883.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428649016.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428651372.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428653864.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428655966.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428657915.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1645428659577.png" alt="" loading="lazy">![]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A1. Conceptual Architecture report]]></title>
         <id>https://bbbhhhll.github.io/post/a1-conceptual-architecture-report/</id>
