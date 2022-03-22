@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bbbhhhll.github.io</id>
     <title>CISC322</title>
-    <updated>2022-02-21T07:38:29.997Z</updated>
+    <updated>2022-03-22T03:53:23.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bbbhhhll.github.io"/>
     <link rel="self" href="https://bbbhhhll.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://bbbhhhll.github.io/images/avatar.png</logo>
     <icon>https://bbbhhhll.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CISC322</rights>
+    <entry>
+        <title type="html"><![CDATA[A2. Concrete Architecture Report]]></title>
+        <id>https://bbbhhhll.github.io/post/a2-concrete-architecture-report/</id>
+        <link href="https://bbbhhhll.github.io/post/a2-concrete-architecture-report/">
+        </link>
+        <updated>2022-03-21T15:49:33.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://bbbhhhll.github.io/post-images/1647920984730.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647920997938.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921000723.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921003033.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921005356.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921007928.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921019507.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921021504.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921023361.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921025520.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921027302.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921029167.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921031269.png" alt="" loading="lazy">![]<br>
+<img src="https://bbbhhhll.github.io/post-images/1647921033363.png" alt="" loading="lazy">![]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A1. Conceptual Architecture slides and presentation]]></title>
         <id>https://bbbhhhll.github.io/post/a1-report/</id>
